@@ -1,6 +1,6 @@
 # Teste de API com JAVA e API REST ![robotframework_icon_132027](https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/Java-icon.png)
 
-Projeto proposto pela equipe da Prime Control para os alunos do curso Prime Hero Academy.
+Projeto criado a fim de estudos e conhecimentos pessoais.
 
 ## 🚀 Começando
 
@@ -26,9 +26,10 @@ Abaixo você encontra as ferramentas que foram utilizadas para criar o projeto.
 * [RestAssured](https://mvnrepository.com/artifact/io.rest-assured/rest-assured) - Uma das dependências utilizadas.
 * [JUnit](https://appium.io/downloads.html) - Uma das dependências utilizadas.
 * [Json Schema Validator](https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator) - Uma das dependências utilizadas.
+
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢
-* Agradeço a todos os colegas e professores da Prime Hero Academy por compartilhar o conhecimento 🤓.
+* Agradecimento a todos que compartilharam conhecimento para que o projeto acontecesse 🤓.
 ---
 ![typing (1)](https://user-images.githubusercontent.com/90788938/138608955-bca9e921-39e9-4301-90ea-e8b4840718bd.png) com ❤️ por [Deywes Rios](https://gist.github.com/deywesarios) 😊

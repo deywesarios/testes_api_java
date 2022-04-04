@@ -1,4 +1,4 @@
-# Teste de API com JAVA e API REST ![robotframework_icon_132027](https://user-images.githubusercontent.com/90788938/138608292-24561c0d-7bc1-4e88-91e3-b74a21a3dab4.png)
+# Teste de API com JAVA e API REST ![robotframework_icon_132027](https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/Java-icon.png)
 
 Projeto proposto pela equipe da Prime Control para os alunos do curso Prime Hero Academy.
 

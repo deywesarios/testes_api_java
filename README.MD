@@ -1,4 +1,4 @@
-# Teste de API com JAVA e API REST ![robotframework_icon_132027](https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/Java-icon.png)
+# Teste de APIs Rest com JAVA ![robotframework_icon_132027](https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/Java-icon.png)
 
 Projeto criado a fim de estudos e conhecimentos pessoais.
 

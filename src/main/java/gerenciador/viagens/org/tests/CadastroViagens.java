@@ -15,9 +15,9 @@ public class CadastroViagens extends BaseTest {
         String TOKEN = given()
                 .contentType(ContentType.JSON)
                 .body("{\"email\": \"admin@email.com\", \"senha\": \"654321\"}")
-                .when()
+        .when()
                 .post("/auth")
-                .then()
+        .then()
                 .statusCode(200)
                 .extract().path("data.token")
                 ;
